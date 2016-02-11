@@ -9,14 +9,14 @@ $(function() {
     siteTagline: 'A blog.',
 
     // Email address
-    siteEmail: 'your_email@example.com',
+    siteEmail: 'zackhall@outlook.com',
 
     // Name
     siteAuthor: 'Your Name',
 
     // Navigation items
     siteNavItems: [
-      { name: 'Github', href: 'https://github.com/yourname', newWindow: false},
+      { name: 'Github', href: 'https://github.com/zackhall', newWindow: true},
       { name: 'About'}
     ],
 
@@ -42,7 +42,7 @@ $(function() {
     postsOnUrl: '',
 
     // Site fade speed
-    fadeSpeed: 300,
+    fadeSpeed: 0,
 
     // Site footer text
     footerText: '&copy; ' + new Date().getFullYear() + ' All Rights Reserved.',
