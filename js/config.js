@@ -3,10 +3,10 @@ $(function() {
   CMS.init({
 
     // Name of your site or location of logo file, relative to root directory (img/logo.png)
-    siteName: 'My Site',
+    siteName: 'Zack Hall',
 
     // Tagline for your site
-    siteTagline: 'Your site tagline',
+    siteTagline: 'A blog.',
 
     // Email address
     siteEmail: 'your_email@example.com',
@@ -53,8 +53,8 @@ $(function() {
 
      // If Github mode is set, your Github username and repo name.
     githubUserSettings: {
-      username: 'yourusername',
-      repo: 'yourrepo'
+      username: 'zackhall',
+      repo: 'zthall-cms'
     },
 
     // If Github mode is set, choose which Github branch to get files from.
